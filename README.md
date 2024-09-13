@@ -1,3 +1,3 @@
 # temp-rope
 
-This is my prohect
+This is my project
